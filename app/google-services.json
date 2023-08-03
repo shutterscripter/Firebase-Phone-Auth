@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "730572134400",
+    "project_id": "infobyte-intern",
+    "storage_bucket": "infobyte-intern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730572134400:android:2cdefa4ec5021a3997e0e5",
+        "android_client_info": {
+          "package_name": "com.app.jayesh.infobyte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730572134400-urvvfgp9hhv3d3663lsj59gg7fmp6jl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.jayesh.infobyte",
+            "certificate_hash": "d5286d4b74800b867b1229be6453cfded6a8e2fb"
+          }
+        },
+        {
+          "client_id": "730572134400-vh9le3dbiekumls2fpm88pc67g4avmns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYWojiaozeZVJRQIpd1E1O76cyG0JVjZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730572134400-vh9le3dbiekumls2fpm88pc67g4avmns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
